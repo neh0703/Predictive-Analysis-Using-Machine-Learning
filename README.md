@@ -1,6 +1,18 @@
 # Predictive-Analysis-Using-Machine-Learning
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: NEHA KARAL
+
+*INTERN ID*: CT08DY1991
+
+*DOMAIN*: DATA ANALYST
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+**Project title: Predictive Analysis Using Machine Learning**
 
 This Jupyter notebook, titled "Predictive Analysis Using Machine Learning," provides a thorough exploration of predictive modeling techniques applied to a superstore sales dataset. The primary objective is to build and evaluate machine learning models for two distinct tasks: regression to predict profit margins and classification to determine whether a transaction is profitable. By leveraging Python libraries such as scikit-learn, pandas, numpy, matplotlib, and seaborn, the notebook demonstrates end-to-end data science workflows, from data preprocessing to model evaluation and visualization.
 
