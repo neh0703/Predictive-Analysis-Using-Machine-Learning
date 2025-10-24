@@ -28,6 +28,5 @@ Visualization enhances interpretability. Feature importance from the Random Fore
 
 Overall, this notebook serves as an educational resource for data analysts and machine learning practitioners, showcasing best practices in feature engineering, pipeline-based preprocessing, model selection, and evaluation. It emphasizes the value of ensemble methods like Random Forest for handling diverse data types and non-linearities. The code is modular, reusable, and well-documented, making it adaptable for similar predictive tasks. By integrating regression and classification, it provides a holistic view of predictive analytics, potentially informing business decisions in retail optimization, such as pricing strategies or inventory management. The notebook's focus on metrics and visualizations ensures actionable insights, bridging technical modeling with practical interpretation.
 
-**Output**
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb2cab42-6b41-409c-ae6a-d0994a427a18" />
+
 
