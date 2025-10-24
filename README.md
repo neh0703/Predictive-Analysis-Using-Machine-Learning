@@ -30,5 +30,3 @@ Overall, this notebook serves as an educational resource for data analysts and m
 
 **Output**
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/009de091-119c-41df-9744-b42cf1b4bae1" />
-
