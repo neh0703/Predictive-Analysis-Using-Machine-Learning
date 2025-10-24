@@ -27,3 +27,8 @@ Classification focuses on predicting profitability. Logistic Regression and Rand
 Visualization enhances interpretability. Feature importance from the Random Forest Regressor is plotted, revealing top contributors like Sales, Discount, and specific categorical encodings (e.g., Sub-Category). The confusion matrix for the classifier is displayed as a heatmap. An ROC curve illustrates the trade-off between true positive and false positive rates, with the AUC quantifying model discriminatory power.
 
 Overall, this notebook serves as an educational resource for data analysts and machine learning practitioners, showcasing best practices in feature engineering, pipeline-based preprocessing, model selection, and evaluation. It emphasizes the value of ensemble methods like Random Forest for handling diverse data types and non-linearities. The code is modular, reusable, and well-documented, making it adaptable for similar predictive tasks. By integrating regression and classification, it provides a holistic view of predictive analytics, potentially informing business decisions in retail optimization, such as pricing strategies or inventory management. The notebook's focus on metrics and visualizations ensures actionable insights, bridging technical modeling with practical interpretation.
+
+**Output**
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/009de091-119c-41df-9744-b42cf1b4bae1" />
+
